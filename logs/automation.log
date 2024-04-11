@@ -1,0 +1,44 @@
+15:54:54.890 [main] INFO  baseClass.BaseClass - User click the Cab Button On Home Page
+15:54:56.314 [main] INFO  baseClass.BaseClass - User Click on th One Way Cab Button
+15:54:56.604 [main] INFO  baseClass.BaseClass - Cab Page ---> From Button
+15:54:56.925 [main] INFO  baseClass.BaseClass - Cab Page ---> From input
+15:55:04.461 [main] INFO  baseClass.BaseClass - User enter the To Value With Invalid data
+15:55:07.834 [main] INFO  baseClass.BaseClass - User Check the Invalid To and Passed
+15:55:13.920 [main] INFO  baseClass.BaseClass - User Navigation to the page............
+15:55:13.924 [main] INFO  baseClass.BaseClass - User close the Ads......
+15:55:19.113 [main] INFO  baseClass.BaseClass - User click the Cab Button On Home Page
+15:55:20.547 [main] INFO  baseClass.BaseClass - User click the Round Trip Button
+15:55:20.903 [main] INFO  baseClass.BaseClass - User check the Round Trip Button is Enabled or Not
+15:55:34.090 [main] INFO  baseClass.BaseClass - User Navigation to the page............
+15:55:34.092 [main] INFO  baseClass.BaseClass - User close the Ads......
+15:55:39.255 [main] INFO  baseClass.BaseClass - User click the Cab Button On Home Page
+15:55:40.657 [main] INFO  baseClass.BaseClass - User Click on th One Way Cab Button
+15:55:40.871 [main] INFO  baseClass.BaseClass - Cab Page ---> From Button
+15:55:41.142 [main] INFO  baseClass.BaseClass - Cab Page ---> From input
+15:55:48.676 [main] INFO  baseClass.BaseClass - Cab Page ---> To Button
+15:55:48.766 [main] INFO  baseClass.BaseClass - Cab Page ---> To input
+15:55:54.159 [main] INFO  baseClass.BaseClass - Cab Page ---> User input the Date
+15:55:54.263 [main] INFO  baseClass.BaseClass - Cab Page ---> User input the Hours
+15:55:54.502 [main] INFO  baseClass.BaseClass - Cab Page ---> User input the Minutes
+15:55:54.606 [main] INFO  baseClass.BaseClass - Cab Page ---> User input the Meridian
+15:55:54.739 [main] INFO  baseClass.BaseClass - Cab Page ---> User click the apply button
+15:55:54.900 [main] INFO  baseClass.BaseClass - Cab Page ---> User click the search Button
+15:55:56.510 [main] INFO  baseClass.BaseClass - Cab Page ---> User Sort the Car
+15:56:02.273 [main] INFO  baseClass.BaseClass - Cab Page ---> User click the Lowest to Highest Price
+15:56:02.321 [main] INFO  baseClass.BaseClass - User Check the Low Rate Button is Enabled or Not
+15:56:02.363 [main] INFO  baseClass.BaseClass - User Check the Low Rate Button is Enabled or Not: Passed
+15:56:07.073 [main] INFO  baseClass.BaseClass - User Navigation to the page............
+15:56:07.075 [main] INFO  baseClass.BaseClass - User close the Ads......
+15:56:12.255 [main] INFO  baseClass.BaseClass - User click the Cab Button On Home Page
+15:56:13.709 [main] INFO  baseClass.BaseClass - User Click on th One Way Cab Button
+15:56:13.962 [main] INFO  baseClass.BaseClass - Cab Page ---> From Button
+15:56:14.315 [main] INFO  baseClass.BaseClass - Cab Page ---> From input
+15:56:21.802 [main] INFO  baseClass.BaseClass - Cab Page ---> To Button
+15:56:21.886 [main] INFO  baseClass.BaseClass - Cab Page ---> To input
+15:56:27.215 [main] INFO  baseClass.BaseClass - Cab Page ---> User input the Date
+15:56:27.304 [main] INFO  baseClass.BaseClass - Cab Page ---> User input the Hours
+15:56:27.608 [main] INFO  baseClass.BaseClass - Cab Page ---> User input the Minutes
+15:56:27.704 [main] INFO  baseClass.BaseClass - Cab Page ---> User input the Meridian
+15:56:27.801 [main] INFO  baseClass.BaseClass - Cab Page ---> User click the apply button
+15:56:27.895 [main] INFO  baseClass.BaseClass - Cab Page ---> User click the search Button
+15:56:29.246 [main] INFO  baseClass.BaseClass - Cab Page ---> User click the Car SUV
